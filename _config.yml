@@ -1,0 +1,7 @@
+title: "Sarah's Designs"
+description: "Custom floral designs"
+baseurl: ""
+url: "https://www.sarahsdesigns.net"
+markdown: kramdown
+permalink: pretty
+theme: null

@@ -1,0 +1,13 @@
+{%- assign folder = include.folder | default: '/assets/gallery/' -%}
+<div class="gallery">
+{% for f in site.static_files %}
+  {% if f.path contains folder %}
+    {% assign ext = f.extname | downcase %}
+    {% if ext == '.jpg' or ext == '.png' %}
+      <a class="gallery-item" href="{{ f.path | relative_url }}">
+        <img loading="lazy" src="{{ f.path | relative_url }}" alt="">
+      </a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
