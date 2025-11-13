@@ -14,7 +14,7 @@ title: Home
 </script>
 <div class="card">
   <h1>Welcome to Sarah's Designs</h1>
-  <p>We're a St. Louis based floral studio specializing in custom arrangements and event florals. Whether you're looking to brighten your property or create a memorable event, we're here to help bring your vision to life (see our past successes in our <a href="/gallery/">gallery</a>). If you're wanting a consultation, use our services, or just have questions, take a few seconds to fill out our contact form below, we'll be in touch shortly!</p>
+  <p> Saint Louis-based Sarah's Designs offers on-site custom floral designs and horticulture consultation. Whether you're looking to brighten your property or create a memorable event, we're here to help bring your vision to life (see our past successes in our <a href="/gallery/">gallery</a>). If you're wanting a consultation, use our services, or just have questions, take a few seconds to fill out our contact form below, we'll be in touch shortly!</p>
 </div>
 <div class="card">
   <h1>Contact Us</h1>
